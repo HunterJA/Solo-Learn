@@ -1,4 +1,2 @@
-# hello-world
-Just another repository
-
-Hello there! I like Python and playing computer games!
+# Solo-learn
+This repository about my Python learning. There will be my hints for it (primarly on russian).
